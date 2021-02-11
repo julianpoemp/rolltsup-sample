@@ -26,7 +26,7 @@ It's an easy-to-use sample project for Typescript developers that just want to c
 
 ## Commands
 
-- `npm run start`: calls rollup.js in watch mode.
+- `npm start`: calls rollup.js in watch mode.
 - `npm run build:js`: builds the library to dist/js. The build contains an iife version incl. a minified version of it.
 - `npm run build:es`: builds the library to dist/es. This build contains an ES version with all typings important for Typescript development.
 - `npm run build`: Calls the last both commands and moves the LICENSE into the dist folder. This command builds the final package.
