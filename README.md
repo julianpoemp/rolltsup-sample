@@ -34,5 +34,5 @@ It's an easy-to-use sample project for Typescript developers that just want to c
 ## Further information
 
 - [rollup.js](http://rollupjs.org/guide/en/): package builder.
-- [https://www.npmjs.com/package/@rollup/plugin-typescript](@rollup/plugin-typescript): TS plugin in order to compile TS.
+- [@rollup/plugin-typescript](https://www.npmjs.com/package/@rollup/plugin-typescript): TS plugin in order to compile TS.
 - [@rollup-plugin-generate-package-json](https://www.npmjs.com/package/rollup-plugin-generate-package-json): Automatically copy package.json, change it and move it to the output directory.
