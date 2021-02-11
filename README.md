@@ -18,8 +18,8 @@ It's an easy-to-use sample project for Typescript developers that just want to c
 ## How to use
 
 1. Clone this repository:  ```git clone https://github.com/julianpoemp/rolltsup-sample.git```
-2. Call `cd rolltsup-sample` and remove the `.git` folder. After that call `git init` for a fresh git initialization. If you are migrating from another project, just copy its .git folder to this one.
-2. Call ``` && npm install```
+2. Call `cd rolltsup-sample` and remove the `.git` folder. After that call `git init` for a fresh git initialization. If you are migrating from another project, just copy its `.git` folder to this one.
+2. Call ```npm install```
 3. Change the LICENSE and the rollup.globals.js
 4. By default, there is a FooClass in the src folder. You can remove it or check if it's running when you call ````npm run start````
 5. All your typescript files should be in the `src` folder. Put your exports into `src/index.ts`.
